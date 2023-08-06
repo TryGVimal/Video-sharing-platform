@@ -1,5 +1,5 @@
 import React from 'react';
-// styles
+// styless
 import { SearchWrapper, Search } from './searchBarStyles';
 
 function SearchBar({ handleSearch }) {

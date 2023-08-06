@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-
+//style
 export const SearchWrapper = styled.div`
   margin-left: 4.5em;
 
