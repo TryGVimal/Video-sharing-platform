@@ -34,12 +34,4 @@ module.exports = API_KEY;
 
 ## Author
 
-**germancutraro**
-
-made with [@bauticutraro](https://github.com/bauticutraro)
-
-## Idea
-
-* The idea was taken from Stephen Grider React.js course, then i tried to styled the app to make it more real like Youtube, so thanks to Stephen! 
-# Youtube-search
-# Video-sharing-platform1
+* Vimal Kant
